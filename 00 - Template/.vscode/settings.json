@@ -3,5 +3,6 @@
     "window.zoomLevel": 1,
     "teriminal.integrated.fontSize": 18,
     "workbench.colorTheme": "Noctis Minimus",
-    "workbench.iconTheme": "vscode-icons", 
+    "workbench.iconTheme": "vscode-icons",
+    "editor.minimap.enabled": false
 }
