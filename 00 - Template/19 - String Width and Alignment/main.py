@@ -27,10 +27,10 @@ print("\n"+5*"="+"Data String"+5*"=")
 print(data_string)
 
 # Mengatur Lebar
-data_nama = "Ucup"
+data_nama = "Ucup Surucup"
 data_string = f"""
-nama = {data_nama:>5} 
-umur = {data_umur:>5} 
+nama   = {data_nama:>5} 
+umur   = {data_umur:>5} 
 tinggi = {data_tinggi:>5} 
 sepatu = {data_ukuran_sepatu:>5}
 """
